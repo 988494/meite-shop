@@ -15,6 +15,5 @@ public class WeiXinAppServiceImpl implements WeiXinAppService {
 	private String name;
 //	@GetMapping("/getApp")
 	public AppEntity getApp() {
-		return new AppEntity("644064779", "yushengjun644"+name);
-	}
+		return new AppEntity("644064779", "yushengjun644"+name);}
 }

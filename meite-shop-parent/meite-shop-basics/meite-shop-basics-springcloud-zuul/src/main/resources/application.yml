@@ -26,6 +26,3 @@ apollo:
 #        ### 以 /api-member/访问转发到订单服务
 #      path: /api-member/**
 #      serviceId: app-mayikt-member
-
-
-           
